@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://kitasio.netlify.app/'
 languageCode = 'en-us'
 title = 'Kitasio'
 theme = "archie"
