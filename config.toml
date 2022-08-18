@@ -1,4 +1,4 @@
 baseURL = 'https://kitasio.netlify.app/'
 languageCode = 'en-us'
-title = 'Kitasio'
-theme = "archie"
+title = "Langur's blog"
+theme = "hugo-theme-minos"

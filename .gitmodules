@@ -1,3 +1,15 @@
 [submodule "themes/archie"]
 	path = themes/archie
 	url = https://github.com/athul/archie.git
+[submodule "themes/zzo"]
+	path = themes/zzo
+	url = https://github.com/zzossig/hugo-theme-zzo.git
+[submodule "themes/hugo-theme-zzo"]
+	path = themes/hugo-theme-zzo
+	url = https://github.com/zzossig/hugo-theme-zzo.git
+[submodule "themes/blist-hugo-theme"]
+	path = themes/blist-hugo-theme
+	url = https://github.com/apvarun/blist-hugo-theme.git
+[submodule "themes/hugo-theme-minos"]
+	path = themes/hugo-theme-minos
+	url = https://github.com/carsonip/hugo-theme-minos.git

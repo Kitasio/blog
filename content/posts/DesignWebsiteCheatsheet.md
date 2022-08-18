@@ -1,7 +1,8 @@
 ---
-title: "DesignWebsiteCheatsheet"
+title: "Website design cheatsheet"
 date: 2022-08-18T18:20:26+03:00
 draft: false
+featuredImage: "/mad_lungi.jpg"
 ---
 
 # Design website cheatsheet
