@@ -5,34 +5,17 @@ draft: false
 featuredImage: "/mad_lungi.jpg"
 ---
 
-# Design website cheatsheet
-
----
-
 ## 1. Gather information about the work,  ask the right questions
 
+### Project specific questions
+1. Who is this site for?
+2. What problem does it solve?
 
-### 1. How Would You Describe Your Project?
-
-Explain as expressively as possible the ultimate, "big picture" vision and purpose of your completed endeavor. How will it look, feel, taste, sound, perform, increase productivity, help your customers, or otherwise benefit humankind?
-
-### 2. What Are Your Goals and Objectives?
-
-What are you trying to accomplish? List the project goals and objectives in terms that are clear, concise, achievable, and measurable. Example: "Produce a four-hour video training series on self-defense with a training resource guide and database, to be accessible by college students on the Internet by May 2008."
-
-### 3. Who Will Benefit From Your Project?
-
-Examples of audiences or beneficiaries include: Clients, customers, customers' customers, local communities, wildlife, students, and specific population segments.
-
-### 4. Will You Be Creating Any Products?
-
-Examples include: Books, publications, studies, reports, manuals, video, audio, multimedia productions, tools, instructional materials, graphics, software and information systems, websites, databases, widgets, and special equipment.
-
-### 5. Will You Be Providing Any Services?
-
-Examples include: Providing telephone support, business software training, day care, statistical analysis, copy editing, and customer satisfaction surveying.
-
-[read more here](https://www.projectsmart.co.uk/project-planning/17-must-ask-questions-for-planning-successful-projects.php)
+### Client specific questions
+1. What about text, who supplies it?
+2. What about images on the site?
+3. Who handles the fonts?
+4. Localization?
 
 ---
 
@@ -61,6 +44,7 @@ Awwwards is a place where the website with the best design in the world is colle
 [more here](https://mousmedia.com/en/13-web-design-reference-site-2020/)
 
 ---
+
 ## 3. Start sketching
 
 Use these tools to sketch only the required functionality, black and white style, no visual design in mind
@@ -70,7 +54,6 @@ Use these tools to sketch only the required functionality, black and white style
 ---
 
 ## 4. Design with figma, get helped by [Refactoring UI book](https://www.refactoringui.com/)
-
 
 1. Use predefined figma [tailwind components](https://www.figma.com/community/file/768809027799962739)
 2. Choose font  [AI helper](https://fontjoy.com/) 
