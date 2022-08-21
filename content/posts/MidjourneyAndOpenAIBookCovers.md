@@ -2,6 +2,7 @@
 title: "Midjourney and OpenAI book covers generation"
 date: 2022-08-21T21:30:15+03:00
 draft: false
+featuredImage: "/cat.jpg"
 ---
 
 
