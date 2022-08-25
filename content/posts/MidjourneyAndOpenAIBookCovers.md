@@ -13,57 +13,43 @@ Get the book description and translate it to English
 
 ## Step 2
 
-Put this into OpenAI
+Put this into OpenAI, you can modify this prompt with different examples and styles to suit your needs
 
 ```
-<your prompt>
+Suggest a book cover idea (avoid faces)
 
-Tl;dr
+styles: medieval, Banksy, Polish poster, Hajime Sorayama,  90’s blacklight poster, poster, high-tech, cyberpunk, vaporwave, alien, modern, ancient, futuristic, retro, realistic, dreamlike, funk art, abstract, pop art, impressionism, minimalism, noir, photorealism, octane render, unreal engine 5, holographic, graffiti, watercolor painting
+
+example: Mockingjay is about Katniss fighting in the rebellion against the Capitol, while also trying to save Peeta from being brainwashed. Gale becomes more ruthless and Katniss starts to doubt her feelings for him. Prim is killed in a bombing, Katniss kills Coin, and she and Peeta eventually have children.
+1. The overall vibe of the text is dark and serious.
+2. It is a novel about a young girl who is fighting in a rebellion against her government, and also trying to save her love from being brainwashed.
+
+output: a burning golden pin of a jay bird catching an arrow on a black background, photorealism
+
+example: Bella Swan turns 18, breaks up with Edward Cullen, and becomes depressed. She is then saved by Jacob Black and the Quileute werewolves and decides to become a vampire.
+1. The text has a dark and depressing tone.
+2. It is a vampire novel.
+
+output: a red ink watercolour with a howling wolf on a vinous round background, in a minimalist style
+
+example: The novels take place in a fictional world with magic and dragons and in which seasons last for years and end unpredictably. The principal story chronicles the power struggle for the Iron Throne among the great Houses of Westeros.
+1. The text has a dark, medieval feel to it.
+2. It is a novel about a power struggle for the Iron Throne, and it is in the fantasy genre.
+
+output: an iron throne made of a thousand swords standing in a majestic throne room forged by the flames of the ancient dragon, in a medieval style
+
+example: House Atreides is assigned to govern the planet Arrakis, which is the only source of the valuable spice substance. The Atreides are betrayed by their physician and killed, but Paul, their son, escapes into the desert and is accepted by the Fremen who believe him to be a messianic figure. Paul establishes himself as the new leader of Arrakis and wrests control of the Empire from the Emperor.
+1. The overall vibe of the text is one of hope and determination. 
+2. It belongs to the science fiction genre.
+
+output: a man walking in a distance on an endless dune with two suns above his head, one bigger than the other, minimalist flat illustration
+
+example: <your book description>
 ```
 
 ## Step 3
 
-You can modify examples but those work too, fill the prompt from the previous output
-
-```
-	Suggest a book cover
-	
-	prompt: The Obsidian River is a magical barrier that separates two lands - one of magical creatures and one of humans. The werewolves are in charge of guarding the humans from the creatures on the other side of the river.
-	
-	book cover: transparent outline of a howling wolf, inside that outline is a dark silhouette of a woman standing on a cliff under a big full moon near forest
-	
-	prompt: Kira is a hard worker who is focused on her career, and is not addicted to services or alcohol.
-	
-	book cover: pencil drawn image of a woman in a black dress on red high heels crossing a road, only legs shown
-	
-	prompt: In today's society, sex is a performance, sexuality is capital, and porn is an anticipation of dead sex. This leaves us without Eros, or the ability to love.
-	
-	book cover: gradient of red through orange abstract leaves of fire on a white background
-	
-	prompt: <your tldr prompt>
-	
-	book cover:
-```
-
-## Step 4
-
-Generate artistic movement
-
-```
-Pick artistic movement based on this text:
-
-text: a detective in a trench coat, standing in front of a door with a key in hand, looking suspicious
-
-artistic movement: noir
-
-text: <your text>
-
-artistic movement:
-```
-
-## Step 5
-
 Go to Midjourney and fill this in
 
-`/imagine <book cover suggestion from Step 3> in a style of <artistic movement from Step 4> --ar 10:16`
+`/imagine <output from openAI> --ar 10:16`
 
