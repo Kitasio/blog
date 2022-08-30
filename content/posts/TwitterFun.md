@@ -4,7 +4,11 @@ date: 2022-08-30T10:44:12+03:00
 draft: false
 ---
 
-Below is a deleted tweet by [this guy](https://twitter.com/jamierusso) and here's a dude [rofling him](https://twitter.com/Noahpinion/status/1563068360773881856?s=20&t=fa4zGGPHjzJ0lgmsMAMNlA)
+# Context:
+
+Below is a tweet by [this guy](https://twitter.com/jamierusso), later he deleted it, I bet due to cringe
+
+And here's a dude [rofling him](https://twitter.com/Noahpinion/status/1563068360773881856?s=20&t=fa4zGGPHjzJ0lgmsMAMNlA)
 
 __Most likely both used AI__
 
