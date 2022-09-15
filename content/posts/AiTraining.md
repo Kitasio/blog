@@ -58,6 +58,22 @@ Summarize Lord of the Rings depicting its overall feel:
 Romantic couple in the woods, view from behind, artstation winner by victo ngai, kilian eng and by jake parker, vibrant colors, winning-award masterpiece, fantastically gaudy, aesthetic octane render, 8k hd resolution
 ```
 
+#### Создание идеи
+Заходим в OpenAI и используем этот prompt, его можно подкорректировать под нужды:
+```
+Suggest a book cover idea
+
+Description: Twilight is a novel by Stephenie Meyer that tells the story of a young girl, Bella Swan, who falls in love with a vampire, Edward Cullen. The novel explores the themes of love, death, and immortality.
+Book cover: Portrait of Kristen Stewart with long hair
+
+Description: The Hitchhiker's Guide to the Galaxy is a novel by Douglas Adams that tells the story of a group of friends who travel through the universe in search of the meaning of life. The novel explores the themes of friendship, adventure, and discovery.
+Book cover: A spaceship flying through a bright, colorful galaxy
+
+Description: Ваше описание книги
+
+Book Cover:
+```
+
 
 #### Создание обложки
 1. Переходим в [lexica.art](lexica.art) или другой подобный ресурс, и ищем там референсы к вашей идее для обложки
