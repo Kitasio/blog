@@ -37,3 +37,5 @@ Koi No Yokan – 恋の予感 The feeling when we meet a person we believe we'll
 Mono no aware – 物の哀れ The appreciation we have for life is heightened by how short life is. Remember, life is short. We are lucky to experience the beauty and melancholy of everyday living.
 
 That's a wrap! Follow me [@jamierusso](https://twitter.com/jamierusso) for 1-2 threads per week on life and business. ↓ RT to share with your audience.
+
+[unrelated link to litcovers](https://litc.fly.dev)
