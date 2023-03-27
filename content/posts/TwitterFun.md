@@ -38,4 +38,4 @@ Mono no aware – 物の哀れ The appreciation we have for life is heightened b
 
 That's a wrap! Follow me [@jamierusso](https://twitter.com/jamierusso) for 1-2 threads per week on life and business. ↓ RT to share with your audience.
 
-[unrelated link to litcovers just ignore it lol](https://litcovers.com)
+[unrelated link to litcovers](https://litcovers.com)
