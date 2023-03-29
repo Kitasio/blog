@@ -40,4 +40,5 @@ That's a wrap! Follow me [@jamierusso](https://twitter.com/jamierusso) for 1-2 t
 
 [unrelated link to litcovers](https://litcovers.com/en/users/register)
 [unrelated link to localhost](http://localhost:4000/en/users/register)
-<a href="http://localhost:4000/en/users/register" target="_blank">new tab link</a>
+<a href="http://localhost:4000/en/users/register" target="_blank">new tab link to localhost</a>
+<a href="https://litcovers.com/en/users/register" target="_blank">new tab link to litcovers</a>
